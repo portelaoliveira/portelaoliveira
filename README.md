@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danilo Portela de Oliveira</h1>
 <h3 align="center">I'm Geophysical and I'm learning to be a Full Stack developer.</h3>
 
-<img align="right" src="https://raw.githubusercontent.com/paulohenriquerosa/paulohenriquerosa/master/img/computer-illustration.png" width="550"/>
+<img align="right" src="https://raw.githubusercontent.com/paulohenriquerosa/paulohenriquerosa/master/img/computer-illustration.png" width="400"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=portelaoliveira&label=Profile%20views&color=0e75b6&style=flat-square" alt="portelaoliveira" /> </p>
 

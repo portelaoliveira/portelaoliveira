@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=portelaoliveira&label=Profile%20views&color=0e75b6&style=flat-square" alt="portelaoliveira" /> </p>
 
-- 🌱 I’m currently learning Node.JS, React.JS, React Native & Flutter
+- 🌱 I’m currently learning Node.JS, React.JS, Zabbix, React Native & Flutter
 - 📫 How to reach me [daniloportela97@gmail.com](mailto:daniloportela97@gmail.com)
 - 💬 Ask me about Geophysics and Python
 
